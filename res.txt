@@ -1,0 +1,10 @@
+negro 0 black
+cafe 1 brown
+rojo 2 red
+naranja 3 orange
+amarillo 4 yellow
+verde 5 green
+azul 6 blue
+morado 7 purple
+gris 8 gray
+blanco 9 white
